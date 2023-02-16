@@ -1,0 +1,14 @@
+.body {
+  background-color: $background-color;
+}
+.img {
+  width: 200px;
+  border-radius: 20px;
+  margin-top: 20px;
+}
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
